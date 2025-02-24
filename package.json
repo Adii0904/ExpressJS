@@ -18,7 +18,9 @@
   },
   "homepage": "https://github.com/Adii0904/ExpressJS#readme",
   "dependencies": {
+    "cookie-parser": "^1.4.7",
     "express": "^4.21.2",
+    "express-session": "^1.18.1",
     "exxpress": "^1.0.0"
   },
   "devDependencies": {
